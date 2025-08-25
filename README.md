@@ -5,7 +5,6 @@ Aspiring Front End Developer
 I've been learning to code for the past two years, with a solid foundation in Python and a basic understanding of Java. A few months ago, I began exploring HTML and quickly developed an interest in web development. Excited to see where this journey takes me!
 * 🌍  I'm based in Chennai*
 * ✉️  You can contact me at [adithyansenthilkumar06@gmail.com](mailto:adithyansenthilkumar06@gmail.com)*
-*  🧠  I'm learning HTML&CSS*
 *  🤝  I'm open to collaborating on interesting projects*
 *  ⚡  Looking forward to learn more!
 
